@@ -124,7 +124,7 @@ Language and meaning are the foundation for models. They make a certain structur
 [ Would it make a difference to conceive the creation of *models* instead of *disciplines*? Maybe a matter of structure? Flexibility? Can they coexist? ]
 
 ---
-### Footnotes:
+### Footnotes
 
 [-1]: Is this a thing that will (or does already) affect scientific writing? Do we even need to specify? I like to specify this, as a personal statement. These thoughts come uniquely from my mind. Well, do they? Amn’t I (love this haha) also affected by other people’s thoughts anyway?
 
