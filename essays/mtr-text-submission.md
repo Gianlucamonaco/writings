@@ -1,58 +1,43 @@
 ## Objectives and approach
 
-This text is an attempt to reconcile two seemingly incompatible approaches to writing. On the one hand, scientific validity is sought, in the sense that it will be based on academic literature. On the other hand, this text attempts to challenge scientific writing through observable formal, conceptual and semantic decisions.
+This text is an attempt to develop a personal writing practice by reconciling two seemingly incompatible approaches to writing. On the one hand, scientific validity is sought, in the sense that it will be based on academic literature. On the other hand, this text attempts to challenge scientific writing through observable formal, conceptual and semantic decisions. Coming from a non-theoretical background and being self-taught in many fields, I find that stress-testing a new discipline is usually the most insightful strategy to understand it and dive into it.
 
 This text is written in the context of the intro seminar cycle of the Master Transdisciplinarity at ZHdK. Although a first draft of this text was conceived before engaging with any of the seminar readings, many topics and perspectives resonated with the intent of this text.
 
-- K. Busch: contesting science as the **highest and truest form of knowledge**
-- K. Busch: **science and theory are not neutral** but part of a power system. They exercise a pressure and shape what knowledge is supposed to look like.
-- M. de la Cadena: **questioning the scientific binaries** and partitioning of the sensible, opposed to other forms of understanding reality.
-- J. Mittelstrass: subjects, theories and **methods used in research are never exclusive** or disciplinary. [I challenge this through Fleck’s thought style]
-- L. Fleck: People often participate in divergent thought collectives than in closely related ones.
-- L. Fleck: Fact must be **expressed in the style** of the thought collective. [ I play with it ]
-- L. Fleck: Same thought in the context of different *thought collectives* is **not the same thought** [ reflected and expanded in the theory of models ]
-- L. Fleck: **Words bear coloring** conforming to a given thought style [ theory of models ]
-- F. Guattari: transdisciplinarity embedded into **language of informatics** [ I do not agree ]
-- F. Guattari: collective assemblages of enunciation
+*Katherine Busch* contests the idea of **science as the highest and truest form of knowledge**, and insists on the fact that, as part of a power system, science it is not neutral and it exercises pressure on what knowledge is supposed to look like. In line with this thought, *Marisol de la Cadena* questions the **scientific binaries and partitioning of the sensible**, opposed to other forms of understanding reality. I also found an interesting tension between *Jürgen Mittelstrass*, who claims that **subjects, theories and methods used in research are never exclusive** or disciplinary, and *Ludwik Fleck*, who believes that the same thought in the context of different thought collectives **is simply not the same thought**, and that thought collectives expect facts to be **expressed always in a certain style**. *Felix Guattari* finds a mediation between disciplinarity and transdisciplinarity, a notion that I will try to push further into the formulation of what I call a **theory of models**.
 
 To summarize, this text aims to address the following questions:
 
-- can a text contribute to knowledge, without obeying the criteria of scientific methods [p.4 Busch, quote from Foucault]?
-- Can footnotes and digressions be seen as a strategy to unlock further developments of the discourse?
-- Is it possible formulate a system that does justice to the relationship between science and other forms of knowledge?
-- How important is it to stick to the original hypotesis, and develop a coherent thesis?
+- To which extent and in what forms does a text contribute to knowledge, when it does not obey the criteria of scientific methods?
+- Can challenging the standards (e.g. footnotes, digressions, layout) play an active role in the development of the discourse?
+- Is it necessary to develop a clear and coherent thesis, in order to produce meaningful knowledge and discourses?
+- How can different versions of the same text (with their marginal or discarded contents) resonate into the final form of a text?
+- Is it possible formulate an overarching system that does justice to the relationship between science and other forms of knowledge?
 
-I will try to demonstrate my hypotesis through the process, the form and content of this text.
+I will try to demonstrate my hypoteses through the process, the form and content of this text. Maybe not all the points mentioned above will be equally and explicitly resolved. As for the process, I will use GitHub as a versioning control tool to keep track of the progress, for each session of work. This approach will enable me not only to have a record of my own writing process, but also to make writing decisions informed by this possibility.
 
 No LLM was employed to formulate or review any part of this text.`[-1]`
 
 ## What is the purpose of science?
 
-Scientific research is often oriented towards discovery through definitions and rational argumentations`[1]`, in order to expand the realm of knowledge, to understand and describe natural and social phenomena.
+Scientific research is often oriented towards discovery through definitions and rational argumentations`[1]`, in order to expand the realm of knowledge, to understand and describe natural and social phenomena.Proceeding through the means of the *logos*, formulating methods and defining conventions is key for effective scientific development. If we take a closer look, each discipline has its own rules and specialised language. Those are fundamental for who is within the field, as they make the communication and sharing processes smooth.
 
-Science is often used to explain and justify the mechanisms underlying the world. Rationality carries a positive connotation in society **[has it increased since enlightenment?]**, and for some individuals, irrational practices or thoughts are seen as negative or as potential threats. Rigor and clarity are venerated beyond scientific realm, bringing rational into every aspect of life, as the only virtuous way of existing in the world.
+Then, if we keep playing this zooming game, we could see science subdividing into disciplines; the disciplines distributed across several institutions; the institutions formed by groups of people`[  [ [4] ]  ]`. Now we are find ourselves conceptually at the scale of individual human beings. A first point of reflection **+** is offered by Bill Readings, when he affirms that ≪Communication cannot be the transfer of a prefabricated meaning, since the meaning of words does not remain the same from one utterance—or more precisely, one idiolect—to the next.≫ (Readings, 1996). **If even communication between two individuals does not transfer the exact same meaning, how can we expect an effective communication between disciplines (trans-disciplines) to ever take place?**
 
-> it is not always possible to sharply distinguish answering questions and giving solutions to problems as scientific questions and problems that concern science at its core, from answering such questions and offering solutions that concern the world. Nuclear research, in the form of fusion research, for example, is not pursued for its own sake, i.e. which is only interesting to the researcher, but also for solving our energy problems, which is of interest to us all. The same applies to medical and climate research. Here, too, it is not so much a matter of solving problems that are inner-scientific, and thereby ‘invented’ by the scientific community, but rather a matter of solving the most problematic health and environmental problems.
->
->*– Mittelstrass p.S70*
+In his analysis of the concepts of disciplinarity, interdisciplinarity and transdisciplinarity, Jürgen Mittelstrass argues that the effects of scientific research always transcend disciplinary boundaries, since it always addresses problems that affect the world (Mittelstrass, 2018). This pragmatic and utilitarian view of science is found not only among scientists, but rationality also has positive connotations in society at large[?1]. For some individuals, irrational practices or thoughts are seen as negative or as potential threats. In some cases, rigor and clarity that go beyond scientific realm can become objects of veneration, and Reason permeates into every aspect of life, becoming the only possible path to pursuing a virtuous existence. How, then, can we avoid reducing all this to a simple binary question, in which one simply chooses which side to take?
 
-In his analysis of the concepts of disciplinarity, interdisciplinarity and transdisciplinarity, Jürgen Mittelstrass argues that the effects of scientific research always transcend disciplinary boundaries, since it always addresses problems that affect the world (Mittelstrass, 2018). But would it be correct to reduce science a mere neutral tool for addressing questions and solving human problems?
+A possible starting point of reflection is perhaps offered by Friedrich Nietzsche, when he discusses the conflictual relationship between science and non-science in his *Human all too human*. Firstly, he believes that science is a greater source of pleasure to who works in it than to whom learns from it. But the nature of this pleasure is ephemeral, and it gradually vanishes as soon as scientific truths enter the everyday life. Moreover, science casts suspicion on other disciplines, impoverishing human experience in general. As a counteract, higher forms of culture should aim for a two-folded brain: one for experiencing science, and one for nonscience (Nietzsche, 1878). Although this position relies on a clear separation between what belongs to the scientific sphere and what does not, it offers an opportunity to develop the discourse at least in two directions:
 
-> *251.* Future of science. To the man who works and searches in it, science gives much pleasure; to the man who learns its results, very little. But since all important scientific truths must eventually become everyday and commonplace, even this small amount of pleasure ceases; just as we have long ago ceased to enjoy learning the admirable multiplication tables. Now, if science produces ever less joy in itself and takes ever greater joy in casting suspicion on the comforts of metaphysics, religion, and art, then the greatest source of pleasure, to which mankind owes almost its whole humanity, is impoverished. Therefore a higher culture must give Give man a double brain, two brain chambers, as it were, one to experience science, and one to experience nonscience. Lying next to one another, without confusion, separable, self-contained: our health demands this. In the one domain lies the source of strength, in the other the regulator. Illusions, biases, passions must give heat; with the help of scientific knowledge, the pernicious and dangerous consequences of overheating must be prevented.
->
->– *Nietzsche, umano, troppo umano I*, par. 251
+1. Science, seen from the scientist’s perspective, has an impact on the individual, and we can’t ignore the repercussions of subjectivity on the scientific result itself. There is much more to be said in this regards, but I won’t dwell on that aspect.
+2. The philosopher warns us against the conception of science as the sole source of truth and opens the way to other ways of experiencing the world. In the chapter dedicated to my *Theory of models,* **I will attempt to propose a conceptual framework for reflecting about scientific and non-scientific ways of experiencing the world**.
 
-An interesting perspective shift is offered by Friedrich Nietzsche, who focuses on the conflictual relationship between science and non-science. He believes that science is a greater source of pleasure to who works in it than to whom learns from it. The nature of this pleasure is ephemeral, and it gradually vanishes as soon as scientific truths enter the everyday life. Moreover, science casts suspicion on other disciplines, impoverishing human experience in general. As a counteract, higher forms of culture should aim for a two-folded brain: one for experiencing science, and one for nonscience (Nietzsche, 1878). Although this position relies on a clear separation between what belongs to the scientific realm and what does not, it serves as a warning against the development of science as the sole source of truth and opens the way to other ways of experiencing the world.
+But first, we need to investigate why the notion of binary thinking is limiting, and thus deconstruct the opposition between scientific and non-scientific.
 
 ## Critique to binary thinking
 
-> […] subjects and disciplines of science are nothing ‘natural’ or ‘god given’, but are something that came about from the history of science, and that their boundaries are often not theoretical, i.e. systematically determined, but are rather historical.
->
-> *– Mittelstrass p.S71*
-
 Every scientific discipline is characterized by technical language and standardized methodologies and practices. While the range of codified procedures and tools may vary according to the requirements, it ensures efficiency and consistency within the scientific community. It is important to remind that such disciplines are not ‘natural’ or ‘god given’, but their development and boundaries are rooted in history (Mittelstrass, 2018)
 
-Applying such a vision to the world as a whole can result in a world dominated by binary oppositions, leaving no room for ambiguity and indeterminacy. This is what the philosopher Federico Campagna identifies as the world of Technic, where the governing principle is “absolute language”. In this view, the reality-system of Technic is generated as a “catalogue of cuts” (Campagna, 2018). Measurement and cutting represent an infinitely replicable process through which language can inscribe and disintegrate reality as such. Far from being a political call to arms, the point of the Italian philosopher is to remind us that reality-systems are built on metaphysical axioms, and that their modification is always possible.  The problem is not thinking in terms of binary oppositions *per sé*, but how a system of beliefs that is based on binary structures becomes absolute and tolerates no alternative.
+Applying such a vision to the world as a whole can result in a world dominated by binary oppositions, leaving no room for ambiguity and indeterminacy. This is what the philosopher Federico Campagna identifies as the world of Technic, where the governing principle is “absolute language”. In this view, the reality-system of Technic is generated as a “catalogue of cuts” (Campagna, 2018). Measurement and cutting represent an infinitely replicable process through which language can inscribe and disintegrate reality as such. Far from being a political call to arms, the point of the Italian philosopher is to remind us that reality-systems are built on metaphysical axioms, and that their modification is always possible. The problem is not thinking in terms of binary oppositions per sé, but how a system of beliefs that is based on binary structures becomes absolute and tolerates no alternative.
 
 I'd like to provoke a thought. If someone close to us were to support one of the many conspiracy theories circulating nowadays, our natural reactions would be to warn them of the danger and try to argue that they are unfounded. But what if there were something to learn from them? Can we understand such theories as the byproduct of the persistent belief that reason is the only way to solve common problems – an idea that, however, has been proven wrong?
 
@@ -60,38 +45,33 @@ In her text Uncommoning Nature, Marisol de la Cadena offers another perspective 
 
 In both examples we see how language and grammar play a fundamental role in creating purpose and meaning, and how these can profoundly shape structures and behaviours of different communities.`[2?]`
 
-## Beyond simulation
+## Beyond simulation / Technological delusion
 
-> the evolution of informatics, its junction with television, telematics, data banks and the image, will develop a sort of machinic transdisciplinarity. This is already largely the case with every major discovery, every major technological innovation, which does not just irrigate neighbouring domains but frequently has fallout in the most distant of domains. Whether one considers the extreme imbrication of informatics, spatial technologies, communication techniques, physics, astrophysics, biology, etc...
+In one of his last essays entitled Transdisciplinarity Must Become Transversality, Felix Guattari manifests a certain sympathy for technology, or at least he places some hope in it. Envisioning a future of transdisciplinarity strongly connected with the development of new technologies, the author states:
+
+> In the first place, it will be possible to liberate a greater and greater quantity of activity and of labour from repetitive material tasks and to devote it to study, research and culture, which will establish new junctions of all kinds between themselves.[<3] […] In the second place,the evolution of informatics, its junction with television, telematics, data banks and the image, will develop a sort of machinic transdisciplinarity. This is already largely the case with every major discovery, every major technological innovation, which does not just irrigate neighbouring domains but frequently has fallout in the most distant of domains. […] In the third place, one might think that the era to come will lay down a profound transformation of the means of expression, knowledge, coordination and sensibility.
 >
-> *– Guattari p.135, 1992*
+> *(Guattari, 1992)*
 
-I find this optimistic (and outdated) view on informatics quite problematic, as it does not seem to take into account the cognitive transformation that such process implies. The conversion of any input source into a digital format implies a necessary reduction, compression and loss of information. One counterargument could be that even our human brain is always selecting and interpreting external inputs, therefore a similar reduction is necessary also for our performing our functions as human beings. But it is also fair to say that digital data has a certain aura of objectivity and neutrality.
+We can certainly understand the French intellectual's positions and justify his enthusiasm if we consider the historical context in which they were conceived, but we cannot ignore what has happened in the last thirty years to draw our conclusions. **At what point did an optimistic vision of the future transform into a narrative that promotes techno-scientific hegemony? Was there ever a transition, or are these simply two sides of the same coin?**
 
-The ever-growing pervasiveness of digital technologies in our lives has a fundamental, often underestimated problem: it reinforces a certain perspective on reality. By being constantly exposed, and by compulsively translating every aspect of our life into digital form, we are convinced to believe that everything can be translated, it is just a matter of technique and architecture. The belief that a human brain can be reproduced —not just simulated— together with the idea that any sensible or mental phenomenon can be reduced to a series of consequential steps, implies that we can understand, control and manipulate virtually *anything*. What are the consequences?
+I would like to make a little digression in order to address **the silent dangers of techno-scientific hegemony and the consequences of binary thinking in the technological context**.
 
-1. Power systems can leverage our dependency and beliefs in such technologies to control, intimidate on any level.
-2. Technology becomes a cognitive trap itself, where we are limited to certain ways of thinking and understanding the world.
+Firstly, many of the discourses on the latest technological developments seem not to take enough into account the philosophical[?3] transformation that such process implies. While a big part of the public discourse is concerned with political, ecological, social, ethical aspects—which are all extremely valid and urgent—, a philosophical understanding might provide a fertile ground to elaborate on. For example, the act of conversion of any aspect of the sensible into a digital format implies a necessary reduction, compression and loss of information. We might have the impression that the parts are irrelevant and negligible (science does it all the time), but those tiny details make a whole difference. Another counterargument could be that the human brain is constantly selecting and interpreting external inputs, and thus a reduction of information is necessary for our performing our living functions. But the machine still lies between us and the sensible, an invisible filter that predigests and preselects everything, and then our ability to digest and select becomes slowly dependent on that external entity.
+
+The ever-growing pervasiveness of digital technologies in our lives has a fundamental, often underestimated problem: it reinforces a certain perspective on reality. By being constantly exposed, and by compulsively translating every aspect of our life into digital form, we are convinced to believe that everything can be translated, it is just a matter of technique and architecture. The belief that a human brain can be reproduced —not just simulated— together with the idea that any sensible or mental phenomenon can be reduced to a series of consequential steps, implies that we can understand, control and manipulate virtually *anything*.
+
+But however powerful, granular or accurate, the current information technology is based on one simple principle: divide and conquer. + The illusion of seamlesness represents a potential danger, as it introduces a cognitive dissonance between what we perceive (a smooth, extra-detailed piece, “close to nature” experience) and what it actually is (a ridiculous amount of numbers and calculations that manifests back into sensible form).
 
 By questioning science and digital technologies, my investigation aims to reveal what the boundaries, limits and the axioms that are implicit in its discoveries and methods. This approach is not meant to confute the discoveries that have contributed to the knowledge that we have achieved today, but rather to open up to new possibilities as well as    `[2...]`
 
-## Limits of the scientific methods
+## A few words on language
 
-> Neither the subjects of research nor the theories and methods used in research are generally mutually exclusive or disciplinary. The same objects, e.g. plant structures, can be the interest of different subjects and disciplines. The same theories, e.g. mathematical theories, and the same methods, e.g. empirical methods, can prove fruitful across many subjects and disciplines. Moreover, specialization does not only have to take place within a discipline, it often also takes place between subjects or disciplines.
->
-> – *Mittelstrass p.S70*
+At the beginning of this text, we have mentioned Mittelstrass’ perspective on disciplines transcending disciplinarity. According to him, ≪neither the subject of research nor the theories and methods used in research are generally mutually exclusive or disciplinary≫ (Mittelstrass, 2018). As a counterpart, we could oppose parts of the theory developed by Ludwig Fleck. In his elaboration the concepts of *thought style* and *thought collective*, he theorizes the impossibility of a pure, *lossless* exchange of ideas between collectives. It is not only a matter of socio-cultural friction between the groups, language itself represents the main obstacle. *Thought styles* constrain ≪the individual by determining "what can be thought in no other way."≫, but also ≪Since all words bear a more or less distinctive coloring conforming to a given thought style, a character which changes during their passage from one collective to the next, they always undergo a certain change in their meaning as they circulate intercollectively. One could compare the meaning of the words “force,” “energy,” or “experiment” for a physicist, a philologist or a sportsman≫ (Fleck, 1935).
 
-Mittelstrass says that methods, subjects are not exclusive. This view is partially in contrast with the phenomenon of *thought style* and *thought collective* developed by Ludwig Fleck. According to the author,
+Dwelling on this apparent contradiction, both up close and from afar, we reach a simple yet powerful conclusion: not all differences, oppositions, contrasts need to be resolved. **+** **Language is a means to define, to sharpen, to separate and—*at the same time*—an intangible, poetic, open-ended device**.
 
-> A person participates more often in several very divergent thought collectives than in several closely related ones. There were and still are physicists, for instance, who profess the religious or spiritualist thought style, but few of them have been interested in biology once it became an independent discipline. Many physicians are engaged in historical or aesthetic studies but only a few in natural science. If thought styles are very different, their isolation can be preserved even in one and the same person. But if they are related, such isolation is difficult. The conflict between closely allied thought styles makes their coexistence within the individual impossible and sentences the person involved either to lack of prod uctivity or to the creation of a special style on the borderline of the field.
->
-> *– Fleck p.110*
-
-A rigorous method, which often proceeds by way of demonstration or evidence, leaves little or no room for speculation or modulation of the tone. I am not saying that everyone working in the scientific field is exclusively serious and devoid of irony; on the contrary, the process of discovery can be far richer and less linear than the argumentation presented in a scientific article suggests. **[I am talking by pure speculation here, I have no proof yet]**
-
-Irony, for instance, is a cultural phenomenon.`[3=D]` Although scientific writing may aim to minimise cultural influences and biases, scientific discourse remains a cultural construct. The members of the scientific field share a specific code, even though some differences might exist between individual disciplines. This demonstrates that no discourse is neutral in absolute terms; rather, it defines its own neutrality based on the demands of the context.
-
-Within the scope of individual disciplines, a transdisciplinary approach might appear unfruitul, as linguistic conflicts and methodological inconsistencies would be unlikely to contribute given the existing boundaries. But transdisciplinarity cannot be reduced to a mere sum of addends, as this would risk creating further boundaries and a fragmenting the object of study. The notion of transdisciplinarity entails the dissolution of boundaries between the disciplines. It means relinquishing the precision defined by the discipline in order to gain a higher level of understanding. In this sense, transdisciplinarity does not present itself as a better substitute for estabilished disciplines; rather, it encourages a constant questioning and renegotiation of the discipline structures, as well as creating space for transformation and the emergence of new fields of inquiry.`[1!]`
+In a similar fashion, the notion of transdisciplinarity entails the dissolution of boundaries between the disciplines, while requiring them. A transdisciplinary process sacrifices the rigor required by the discipline in order to gain a different type of understanding. In this sense, transdisciplinarity does not present itself as a better substitute for estabilished disciplines; rather, it encourages a constant questioning and renegotiation of the discipline structures, as well as creating space for transformation and the emergence of new fields of inquiry.[0]
 
 ## Theory of models
 
@@ -124,20 +104,28 @@ Language and meaning are the foundation for models. They make a certain structur
 [ Would it make a difference to conceive the creation of *models* instead of *disciplines*? Maybe a matter of structure? Flexibility? Can they coexist? ]
 
 ---
+
 ### Footnotes
 
-[-1]: Is this a thing that will (or does already) affect scientific writing? Do we even need to specify? I like to specify this, as a personal statement. These thoughts come uniquely from my mind. Well, do they? Amn’t I (love this haha) also affected by other people’s thoughts anyway?
+`[-1]`: Is this a thing that will (or does already) affect scientific writing? Do we even need to specify? I like to specify this, as a personal statement. These thoughts come uniquely from my mind. Well, do they? Amn’t I (love this haha) also affected by other people’s thoughts anyway?
 
-[1]: Ha! I got you. If you didn’t read the footnote, you would assume I had a valid reference to support my statement. What if I did not? To what extent would this impact the validity of the whole text?
-
-[1!]: Through Transdisciplinarity I am searching for conflict, ambiguity and paradox, not for approval or solutions. I want to reveal frictions and bring to surface invisible patterns. Trigger situations, behaviours and thoughts that are latent, unintentional, or even censored.
+`[0]`: Through Transdisciplinarity I am searching for conflict, ambiguity and paradox, not for approval or solutions. I want to reveal frictions and bring to surface invisible patterns. Trigger situations, behaviours and thoughts that are latent, unintentional, or even censored.
 Note: this was the real starting point, the first sentence I wrote in this whole text.
 
-[2?]: Can we say that an epistemological difference does not imply an ontological one? Or rather the opposite?
+`[1]`: Ha! I got you. If you didn’t read the footnote, you would assume I had a valid reference to support my statement. What if I did not? To what extent would this impact the validity of the whole text?
 
-[2...]: I like this thing of leaving unfinished sentences. Maybe something else comes to my mind, and I start elaborating another thought. And then come back to the unfinished. I guess this is how most people proceed, but you can never see at what point someone has stopped. Would this contribute to understanding how we write? Or how we think? Do our thoughts form before we write them or while we write them?
+`[2...]`: I like this thing of leaving unfinished sentences. Maybe something else comes to my mind, and I start elaborating another thought. And then come back to the unfinished. I guess this is how most people proceed, but you can never see at what point someone has stopped. Would this contribute to understanding how we write? Or how we think? Do our thoughts form before we write them or while we write them?
 
-[3=D]: It’s not only about irony though. In the scientific context, mechanisms like peer reviews are meant to ensure that all shared knowledge conforms to standards. What are the consequences of failing to meet writing standards? Can one afford the risk of being [rejected / labelled as subversive] by one’s own thought community?
+`[<3]`: Please allow me to express just a personal comment on the idea of liberating human labour from repetitive task and to devote it to culture. I find that thought sooo cute.
+
+`[  [ [4] ]  ]`: I imagine this as a kind of cinematic sequence, a bit like those video when you see the planet earth, and then you get as close as to a single building.
+
+
+`[?1]`: But even more since the Enlightenment? Does Kant have a role here?
+
+`[?2]`: Can we say that an epistemological difference does not imply an ontological one? Or rather the opposite?
+
+`[?3]`: Metaphysical? Cognitive?
 
 ---
 
@@ -157,3 +145,4 @@ Mittelstrass, Jürgen. *The Order of Knowledge: From Disciplinarity to Transdisc
 
 Nietzsche, Friedrich. *Human all too human*. ___, 1878. 
 
+Readings, Bill. ___, ___, ___.
